@@ -1,0 +1,30 @@
+#title{
+    font-family: "Bellefair",sans-serif;
+    text-transform: uppercase;
+}
+
+#so-you{
+    font-family: "Barlow Condensed", sans-serif;
+    text-transform: uppercase;
+}
+
+#text{
+    font-family: "Barlow Condensed",sans-serif;
+}
+
+.home{
+    background-image: url(../../assets/home/background-home-desktop.jpg);
+    background-repeat: no-repeat;
+}
+
+.button-home{
+    background-color: white;
+    border-radius: 100%;
+    width: 274px;
+    height: 274px;
+    text-transform: uppercase;
+    font-family: "Bellefair",sans-serif;
+    font-size: 32px;
+}
+
+

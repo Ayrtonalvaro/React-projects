@@ -1,0 +1,48 @@
+#list-destination{
+    font-size: 16px;
+}
+
+#pick{
+    font-size: 28px;
+    text-transform: uppercase;
+}
+
+#title-destination{
+    font-size: 100px;
+    font-family: "Bellefair",sans-serif;
+    text-transform: uppercase;
+}
+
+#text-destination{
+    font-size: 18px;
+    font-family: "Barlow Condensed",sans-serif;
+    color: rgb(208, 214, 249)
+}
+
+.linea{
+    border: solid 1px;
+}
+
+#info-destination{
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+#info-dist{
+    font-size: 28px;
+    font-family: "Bellefair",sans-serif;
+}
+
+#info-time{
+    font-size: 28px;
+    font-family: "Bellefair",sans-serif;
+}
+
+.destination{
+    background-image: url(../../assets/destination/background-destination-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    color: white;
+}

@@ -1,0 +1,55 @@
+.crew{
+    background-image: url(../../assets/crew/background-crew-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#meet-your{
+    font-family: "Barlow Condensed";
+    font-size: 26px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+span{
+    font-size: 28px;
+    font-family: "Barlow Condensed",sans-serif;
+    font-style: bold;
+    opacity: 25%;   
+}
+
+#rol{
+    font-family: "Bellefair",sans-serif;
+    font-size: 32px;
+    bleed: normal;
+    text-transform: uppercase;
+}
+
+#name{
+    font-family: "Bellefair",sans-serif;
+    font-size: 56px;
+    fill: solid;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+#description{
+    width: 444px;
+    height: 128px;
+    font-family: "Barlow",sans-serif;
+    font-size: 18px;
+    fill: solid;
+    color: #D0D6F9;
+}
+
+#button-container{
+    margin-top: 100px;
+}
+
+.button-crew{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(55 65 81);;
+    border-radius: 100%;
+}
+
